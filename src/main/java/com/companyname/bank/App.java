@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "change for poll scm by kiran.. ");
+        System.out.println( "poll scm changes by me ");
     }
 }
